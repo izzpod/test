@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Zver\\source\\repos\\transCars\\Transport\\Transport.EntitiesLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Zver\\source\\repos\\transCars\\Transport\\Transport.EntitiesLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Zver\\source\\repos\\transCars\\Transport\\Transport.EntitiesLibrary.csproj",
+        "projectName": "Transport.EntitiesLibrary",
+        "projectPath": "C:\\Users\\Zver\\source\\repos\\transCars\\Transport\\Transport.EntitiesLibrary.csproj",
+        "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zver\\source\\repos\\transCars\\Transport\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
